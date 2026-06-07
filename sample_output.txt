@@ -1,0 +1,8 @@
+===== Smart Traffic Speed Optimizer =====
+
+Enter distance between lights (meters): 250
+Enter traffic light cycle time (seconds): 60
+Enter offset time (seconds): 10
+
+Ideal Speed: 12.80 m/s
+Approx Speed: 46.08 km/h
