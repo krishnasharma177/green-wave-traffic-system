@@ -1,0 +1,12 @@
+# Green Wave Traffic System
+
+## Description
+This project calculates the ideal speed needed to catch green traffic signals.
+
+## Features
+- Calculates optimal speed
+- Uses traffic signal timing
+- Converts m/s to km/h
+
+## Language
+C
